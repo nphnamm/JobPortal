@@ -303,11 +303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\C_sharp\\job-portal-main\\job-portal-main\\JobPortal.Common\\JobPortal.Common.csproj",
+      "projectUniqueName": "D:\\Github\\JobPortal\\JobPortal.Common\\JobPortal.Common.csproj",
       "projectName": "JobPortal.Common",
-      "projectPath": "D:\\Study\\C_sharp\\job-portal-main\\job-portal-main\\JobPortal.Common\\JobPortal.Common.csproj",
+      "projectPath": "D:\\Github\\JobPortal\\JobPortal.Common\\JobPortal.Common.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\C_sharp\\job-portal-main\\job-portal-main\\JobPortal.Common\\obj\\",
+      "outputPath": "D:\\Github\\JobPortal\\JobPortal.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -318,6 +318,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -330,6 +331,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -361,7 +367,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
